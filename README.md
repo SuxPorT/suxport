@@ -2,7 +2,7 @@
 
 **`Full Stack Developer (Angular/.NET/SQL Server)`**
 
-I am a developer graduated from PUCPR with a degree in Computer Science. I have a focus on continuous improvement of skills related to technology, productivity, and communication, possessing strong knowledge and experience in .NET and Angular technologies, and seeking opportunities to work as a Full Stack Developer.
+I am a developer undergraduated from PUCPR with a degree in Computer Science. I have a focus on continuous improvement of skills related to technology, productivity, and communication, possessing strong knowledge and experience in .NET and Angular technologies, and seeking opportunities to work as a Full Stack Developer.
 
 [![Website](https://img.shields.io/website?label=My%20Personal%20Website&style=for-the-badge&url=https%3A%2F%2Falexys-fernandes.netlify.app)][website]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -47,7 +47,7 @@ I am a developer graduated from PUCPR with a degree in Computer Science. I have 
 ### 📊 Stats
 
 <div>
-    <img style="float:left;" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxport&theme=dracula" />
+    <img style="float:left;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxport&theme=dracula" />
     <img style="float:left;margin: 40px 0 0 15px" alt="Alexys Santiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suxport&show_icons=true&theme=dracula" />
 </div>
 
